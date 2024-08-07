@@ -1,4 +1,4 @@
-.metadata/**
+.metadata/
 **/.dbeaver/**
 **/.settings/**
 **/.project
